@@ -1,0 +1,138 @@
+<svg id="Flat_MacBook" data-name="Flat MacBook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="999.961" height="576.392" viewBox="0 0 1891 1090">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-opacity: 0.25;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #d2d3d5;
+      }
+
+      .cls-3 {
+        fill: #242424;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #181818;
+      }
+
+      .cls-5 {
+        filter: url(#filter);
+      }
+
+      .cls-6 {
+        fill: #fff;
+        fill-opacity: 0.14;
+      }
+
+      .cls-7 {
+        fill: #0a0a0a;
+        filter: url(#filter-2);
+      }
+
+      .cls-8 {
+        fill: #30a7c4;
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        fill: #b3b3b6;
+      }
+
+      .cls-10 {
+        fill: #9a9a9f;
+      }
+
+      .cls-11 {
+        fill: #bdbdbd;
+        filter: url(#filter-3);
+      }
+
+      .cls-12 {
+        fill: #c4c4c6;
+        filter: url(#filter-4);
+      }
+    </style>
+    <filter id="filter" x="334.906" y="1010.97" width="1217.184" height="22.06" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" in="SourceAlpha"/>
+      <feFlood result="flood" flood-opacity="0.75"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dx="-3.42" dy="9.397"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" mode="multiply" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="937" y="28" width="18" height="19" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="-3" y="1032.94" width="1897" height="35.03" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="-3" y="1032.94" width="1897" height="35.03" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTg5NyIgaGVpZ2h0PSIzNS4wMyIgdmlld0JveD0iMCAwIDE4OTcgMzUuMDMiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB5MT0iMTcuNTE1IiB4Mj0iMTg5NyIgeTI9IjE3LjUxNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNjNGM0YzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjA0NCIgc3RvcC1jb2xvcj0iI05hTk5hTk5hTiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNSIgc3RvcC1jb2xvcj0iI2QyZDNkNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuOTU4IiBzdG9wLWNvbG9yPSIjZDJkM2Q1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC45NjEiIHN0b3AtY29sb3I9IiNlYWVkZjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZWFlZGYxIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIxODk3IiBoZWlnaHQ9IjM1LjAzIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="813.969" y="1032.97" width="265.001" height="21" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="813.969" y="1032.97" width="265.001" height="21" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjY1LjAwMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI2NS4wMDEgMjEiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB5MT0iMTAuNSIgeDI9IjI2NS4wMDEiIHkyPSIxMC41IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2IzYjNiNiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNTAxIiBzdG9wLWNvbG9yPSIjYjNiM2I2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC41MDQiIHN0b3AtY29sb3I9IiNjNGM0YzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYzRjNGM2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIyNjUuMDAxIiBoZWlnaHQ9IjIxIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="shadow" class="cls-1" d="M1663.33,0H228.257A55.463,55.463,0,0,0,192.8,12.745l-0.117-.219-3.386,3.386q-0.4.4-.8,0.8L14.1,189.05l0.015,0A55.488,55.488,0,0,0-3.013,229.2V1027.83a55.675,55.675,0,0,0,55.685,55.67H1487.74a55.476,55.476,0,0,0,36.04-13.24l0.1,0.16,2.97-2.97c0.18-.17.35-0.34,0.52-0.52L1702.15,894.2l-0.01,0a55.486,55.486,0,0,0,16.87-39.9V55.668A55.677,55.677,0,0,0,1663.33,0Z"/>
+  <g id="screen">
+    <g id="screen_elements" data-name="screen elements">
+      <path id="Shape" class="cls-2" d="M173,1013.72a55.672,55.672,0,0,0,55.668,55.67H1663.33a55.671,55.671,0,0,0,55.67-55.67V55.634A55.667,55.667,0,0,0,1663.33-.035H228.667A55.669,55.669,0,0,0,173,55.634V1013.72Z"/>
+      <path id="Shape-2" data-name="Shape" class="cls-3" d="M1714.99,54.622a50.726,50.726,0,0,0-50.67-50.669H227.655a50.725,50.725,0,0,0-50.668,50.669V1012.67a50.726,50.726,0,0,0,50.668,50.67H1664.32a50.727,50.727,0,0,0,50.67-50.67V54.622Z"/>
+      <path id="Shape-3" data-name="Shape" class="cls-4" d="M179.987,54.685a47.722,47.722,0,0,1,47.668-47.67H1664.34a47.721,47.721,0,0,1,47.67,47.67L1711.48,892v5l0.53,93a19.994,19.994,0,0,1-20,20H199.987a20,20,0,0,1-20-20V54.685Z"/>
+      <path id="Shape-4" data-name="Shape" class="cls-5" d="M1547.22,1010.97H339.782l-4.875,22.01,217.115,0.04h62.385l937.683-.04Z"/>
+    </g>
+    <path id="glare" class="cls-6" d="M1712,990.028V54.644a47.72,47.72,0,0,0-47.67-47.669H1131.06l438.8,1003.055H1692A20,20,0,0,0,1712,990.028Z"/>
+    <g id="cam">
+      <circle id="Shape-5" data-name="Shape" class="cls-7" cx="946" cy="37" r="9"/>
+      <circle id="Shape-6" data-name="Shape" class="cls-8" cx="946" cy="37" r="5"/>
+    </g>
+  </g>
+  <g id="base">
+    <path id="base_shape" data-name="base shape" class="cls-9" d="M81.645,1089.99h1727.7c36.57,0,68.77-13.12,81.65-21.99H0C12.882,1076.87,45.079,1089.99,81.645,1089.99Z"/>
+    <path id="Shape-7" data-name="Shape" class="cls-10" d="M659.153,1086.02c0.381,0.6-4.213,2.1-9.543,2.24s-8.87-1.05-9.764-1.71c-1.341-1.01,2.309-2.39,7.641-2.53S658.25,1084.61,659.153,1086.02Z"/>
+    <path id="Shape-8" data-name="Shape" class="cls-10" d="M1228.57,1086.02c-0.39.6,4.21,2.1,9.54,2.24s8.87-1.05,9.76-1.71c1.34-1.01-2.31-2.39-7.64-2.53S1229.47,1084.61,1228.57,1086.02Z"/>
+    <path id="front_shape" data-name="front shape" class="cls-11" d="M1892.98,1032.94H-2a1,1,0,0,0-1,.97v29.55a3.788,3.788,0,0,0,1.4,3.36c0.5,0.37,1.031.75,1.6,1.15H1891c0.75-.52,1.43-1.01,2.04-1.49a3.076,3.076,0,0,0,.96-2.61v-29.93A1.077,1.077,0,0,0,1892.98,1032.94Z"/>
+    <path id="Shape-9" data-name="Shape" class="cls-12" d="M941.9,1032.96H813.983c0,6.5,6.916,21,20.916,21H1058.04c14,0,20.91-14.5,20.91-21H941.9Z"/>
+  </g>
+</svg>

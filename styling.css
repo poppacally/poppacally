@@ -1,0 +1,154 @@
+body {}
+h1 {
+    color: #d2283c;}
+h2 {
+    color: #a72433;}
+p { color: #f24256;}
+}
+#sectionOneTop small {
+    color: #a72433;
+}
+#development {
+  background-color: #8fbacf;
+}
+#gitHub{
+  background-color: #64808e;
+}
+#photography{
+  background-color: #8fbacf;
+}
+.sectionThreeTop small {
+    color: #a72433;
+}
+.container{
+    width: 100%;
+}
+#navbar {
+  top: 0;
+  /*z-index: 100;
+  position: fixed;*/
+  background-color: #222;
+  padding: 20px;
+  border-style: none;
+}
+.embedContent {
+  text-align: center;
+}
+.testImageOne {
+  width: 200px;
+  height: 200px;
+}
+#sectionOne {
+    padding: 200px;
+    background-color: #20282c;
+    text-align: center;
+}
+#sectionTwo {
+  padding: 100px;
+  background-color: #333f45;
+  text-align: left;
+}
+#sectionTwoTop {}
+#sectionOneTop {
+  align: center;
+  margin: 50, 50, 50 50;
+}
+#sectionTwoImage {
+  height: 100%;
+  width: 100%;
+}
+.sectionTwoTopContent {
+  text-align: center;
+  text-shadow: 2px, 2px, 1px, black;
+  text-decoration: underline;
+  padding-bottom: 80px;
+}
+#sectionThree {
+  padding: 100px;
+  background-color: #64808e;
+  text-align: left;
+}
+#sectionThreeTop {}
+#sectionThreeImage {}
+#portfolio{}
+.sectionThreeTopContent {
+  text-align: center;
+  text-shadow: 2px, 2px, 1px, black;
+  text-decoration: underline;
+  padding-bottom: 80px;
+}
+#content {
+  height: 1000px;
+}
+.navbar-inverse {
+  background: #222B31 !important;
+  border-bottom: 4px solid #EE445F !important;
+}
+.navbar-brand {
+  font: 12px Lato !important;
+  text-transform: uppercase;
+  color: #FFF !important;
+  letter-spacing: 2px;
+  margin-top: 2px;
+}
+.nav {
+  margin-bottom: 0px;
+}
+.nav a {
+  font: 500 11px Lato;
+  letter-spacing: 2px;
+  padding: 16px !important;
+  color: #a3bfc6 !important;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1000;
+}
+.nav a:hover {
+  color: #FFF !important;
+}
+.nav li {
+  position: relative;
+}
+.navbar-inverse .navbar-toggle {
+  border: none;
+}
+.navbar-collapse {
+  box-shadow: none !important;
+  border: none !important;
+}
+.navbar-inverse .navbar-toggle:hover {
+  background: transparent !important;
+}
+.navbar-inverse .navbar-toggle:focus {
+  background: transparent !important;
+}
+.navbar-inverse .navbar-toggle:active {
+  background: transparent !important;
+}
+.icon-bar {
+  background: #a3bfc6 !important;
+}
+.hover {
+  display: block;
+  position: absolute;
+  width: 0%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background: #EE445F !important;
+  z-index: 0;
+  opacity: 0;
+}
+@media (max-width: 767px) {
+  .nav {
+    padding-bottom: 20px;
+  }
+  .nav a {
+    padding: 12px !important;
+  }
+}
+@media (max-width: 480px) {
+  .nav {
+    padding-bottom: 20px;
+  }
+}
